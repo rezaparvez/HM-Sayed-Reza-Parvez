@@ -1,0 +1,26 @@
+/* common shared styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* nav related styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav > ul{
+    display: flex; 
+align-items: center;
+}
+    
+nav li{
+    list-style: none;
+    margin-right: 32px;
+}
+.nav-tittle{
+font-size: 45px;
+font-weight: 700;
+}
+.text-color{
+color: #FF42A5, #FF42A5;
+}
